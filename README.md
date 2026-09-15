@@ -92,12 +92,12 @@ Main analyses:
 
 ![Customer & Regional Analysis](page3.png)
 
-## 📂 Project Files
+- ## 📂 Project Files
 
-- `Sales_Performance_Analysis.pbix` – Power BI dashboard
-- `Sales_Performance_Analysis.png` – Sales Performance Analysis page
-- `Product_Analysis.png` – Product Analysis page
-- `Customer_Regional_Analysis.png` – Customer & Regional Analysis page
+- `AdventureWorks_Sales_Analysis.pbix` – Power BI dashboard
+- `page1.png` – Sales Performance Analysis
+- `page2.png` – Product Analysis
+- `page3.png` – Customer & Regional Analysis
 
 ## 📌 Dataset
 
